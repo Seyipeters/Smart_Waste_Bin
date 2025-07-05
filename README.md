@@ -32,7 +32,8 @@ This project is an Arduino-based smart waste bin that uses an ultrasonic sensor 
 
 ## Demo Video
 
-[Watch the demo video here](https://your-demo-video-link.com)
+[![Watch the video](https://img.youtube.com/vi/j-FApswuuXg/0.jpg)](https://youtube.com/shorts/j-FApswuuXg?feature=share)
+
 
 ## Project Structure
 
